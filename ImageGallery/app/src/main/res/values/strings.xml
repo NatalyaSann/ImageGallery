@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+    <string name="text_desc">text content</string>
+    <string name="feed">ЛЕНТА</string>
+    <string name="files">ФАЙЛЫ</string>
+    <string name="all_photos">ВСЕ ФОТО</string>
+    <string name="offline">ОФЛАЙН</string>
+
+</resources>
