@@ -72,9 +72,10 @@
 
     </LinearLayout>
 
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="@color/mainColor" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:background="@color/mainColor" />
+
 
 </LinearLayout>

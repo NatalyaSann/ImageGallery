@@ -20,16 +20,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".FeedActivity_"
             android:screenOrientation="sensorPortrait" />
-        <activity android:name=".FilesActivity_"
+        <activity
+            android:name=".FilesActivity_"
             android:screenOrientation="sensorPortrait" />
-        <activity android:name=".PhotosActivity_"
+        <activity
+            android:name=".PhotosActivity_"
             android:screenOrientation="sensorPortrait" />
-        <activity android:name=".OfflineActivity_"
+        <activity
+            android:name=".OfflineActivity_"
             android:screenOrientation="sensorPortrait" />
     </application>
 
